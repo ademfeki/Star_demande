@@ -8,9 +8,9 @@
   font-family: "Outfit", "Segoe UI", sans-serif;
   color: #1f2937;
   background:
-    radial-gradient(circle at 4% -10%, rgba(255, 91, 31, 0.2) 0%, rgba(255, 91, 31, 0) 38%),
-    radial-gradient(circle at 94% 2%, rgba(212, 21, 51, 0.14) 0%, rgba(212, 21, 51, 0) 42%),
-    linear-gradient(180deg, #f8f8fa 0%, #eef1f5 100%);
+    radial-gradient(circle at 4% -10%, rgba(21, 128, 61, 0.12) 0%, rgba(21, 128, 61, 0) 38%),
+    radial-gradient(circle at 94% 2%, rgba(20, 83, 45, 0.10) 0%, rgba(20, 83, 45, 0) 42%),
+    linear-gradient(180deg, #f4faf6 0%, #eaf2ed 100%);
 }
 
 * {

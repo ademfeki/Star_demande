@@ -7,7 +7,7 @@ function Home() {
       <section className="fade-in glass-panel relative overflow-hidden rounded-3xl border border-slate-200 p-8 shadow-soft sm:p-10">
         <div className="absolute -right-24 -top-24 h-64 w-64 rounded-full bg-brand-100 opacity-70" />
         <div className="absolute -left-20 -bottom-20 h-56 w-56 rounded-full bg-brandOrange-100 opacity-80" />
-        <p className="text-sm font-semibold uppercase tracking-wide text-brand-700">Agence d'assurance</p>
+        <p className="text-sm font-semibold uppercase tracking-wide text-brand-700">STAR Assurances</p>
         <h1 className="title-font mt-3 text-3xl font-bold leading-tight text-slate-900 sm:text-4xl">
           Soumettez vos demandes en quelques étapes
         </h1>

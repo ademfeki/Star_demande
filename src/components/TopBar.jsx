@@ -1,12 +1,12 @@
 import { Link } from "react-router-dom";
-import logo from "../assets/albaraka-logo.svg";
+import logo from "../assets/STAR.svg";
 
 function TopBar() {
   return (
     <header className="sticky top-0 z-50 border-b border-slate-200/80 bg-white/90 backdrop-blur">
       <div className="mx-auto flex w-full max-w-7xl items-center justify-between gap-3 px-4 py-3 sm:px-6">
         <Link to="/" className="shrink-0">
-          <img src={logo} alt="alBaraka Assurances" className="h-12 w-auto object-contain sm:h-14" />
+          <img src={logo} alt="STAR Assurances" className="h-12 w-auto object-contain sm:h-14" />
         </Link>
 
         <div className="text-right">
